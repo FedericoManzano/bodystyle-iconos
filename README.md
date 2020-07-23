@@ -1,7 +1,7 @@
 # Bodystyle Icon
 
 [![Documentación](https://img.shields.io/badge/bodyicon-v1.1.0-green.svg)](https://bodystyle.000webhostapp.com)
-[![Licencia](https://img.shields.io/badge/MIT-1.0.0-blue.svg)](https://github.com/FedericoManzano/bodystyle/blob/master/LICENCE)
+[![Licencia](https://img.shields.io/badge/MIT-1.0.0-blue.svg)](https://github.com/FedericoManzano/bodystyle-iconos/blob/master/LICENCE)
 
 Conjunto de iconos fuente para añadirle a los elementos en las páginas web.
 
@@ -76,5 +76,9 @@ Para poder utilizar los íconos simplemente añadimos una etuiqueta `span` al el
 ```html
     <h1>Esto es un H1 <span class="bs-book">&nbsp;</span></h1>
 ```
+
+## Licencia
+
+[MIT](https://github.com/FedericoManzano/bodystyle-iconos/blob/master/LICENCE) Bodystyle (c) 2020
 
 
