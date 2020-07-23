@@ -53,7 +53,7 @@ La instalación es a través de el CDN de los archivos de estilo que componen la
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Link con el CDN de los estilos css  -->
-        <link rel="stylesheet" href="https://ghcdn.rawgit.org/FedericoManzano/bodystyle-iconos/master/iconos/bs-iconos.min.css">
+        <link rel="stylesheet" href="https://rawcdn.githack.com/FedericoManzano/bodystyle-iconos/67ed1347160750e506d5153c8ae523057db50b03/iconos/bs-iconos.min.css">
     </head>
     <body>
         <span class="bs-book"></span>
