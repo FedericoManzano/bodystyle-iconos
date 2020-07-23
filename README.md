@@ -42,3 +42,39 @@ Todo lo referente a los íconos podemos encontrarlo en la documentación de Body
 ## Instalación
 
 La instalación es a través de el CDN de los archivos de estilo que componen la librería.
+
+### Plantilla
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- META obligatorio para poder utilizar la libreria -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Link con el CDN de los estilos css  -->
+        <link rel="stylesheet" href="https://ghcdn.rawgit.org/FedericoManzano/bodystyle-iconos/master/iconos/bs-iconos.min.css">
+    </head>
+    <body>
+        <span class="bs-book"></span>
+    </body>
+</html>
+```
+
+Para descargar el código fuente podemos hacer un clone desde el repositorio.
+
+```bash
+    git clone https://github.com/FedericoManzano/bodystyle-iconos
+```
+
+## utilización 
+
+Para poder utilizar los íconos simplemente añadimos una etuiqueta `span` al elemento al cual queremos añadirle un ícono y luego al span le agregamos la clase correspondiente a cada uno de los íconos.
+
+### Ejemplo
+
+```html
+    <h1>Esto es un H1 <span class="bs-book">&nbsp;</span></h1>
+```
+
+
