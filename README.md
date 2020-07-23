@@ -8,11 +8,11 @@ Conjunto de iconos fuente para añadirle a los elementos en las páginas web.
 
 ## Contenido :clipboard:
 
-- [Estructura]()
-- [Documentación]()
-- [Instalación]()
-- [Utilización]()
-- [Licencia]()
+- [Estructura](https://github.com/FedericoManzano/bodystyle-iconos#estructura)
+- [Documentación](https://github.com/FedericoManzano/bodystyle-iconos#documentaci%C3%B3n-book)
+- [Instalación](https://github.com/FedericoManzano/bodystyle-iconos#instalaci%C3%B3n)
+- [Utilización](https://github.com/FedericoManzano/bodystyle-iconos#utilizaci%C3%B3n)
+- [Licencia](https://github.com/FedericoManzano/bodystyle-iconos/blob/master/LICENCE)
 
 ## Estructura 
 
